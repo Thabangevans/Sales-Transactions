@@ -31,16 +31,16 @@ The ultimate goal is to deliver **data-driven recommendations** that improve pro
 - **Limpopo**: Lower overall revenue and transactions but still does a stable revenue income.
 
 ### Product Risks  
-- **Least attractive product**: Toothpaste and Soap Bar are lowest in Revenue and in Quantity bought. 
+- **Underperformers**: Toothpaste and Soap Bar are lowest in Revenue and purchase frequency. 
 
 ---
 
 ##  Recommendations  
 
 ### Pricing & Revenue Strategies   
-- Focus promotions on high-volume products (*Sugar*, *Toothpaste*, *Cooking oil*) to drive basket size.  
-- Protect margins on high-revenue items (*Maize Meal*, *Rice*) by monitoring discount application closely.
-- Look into Soap bars with low Revenue, put a promotion on it and bundle it with a "Buy 1 and get 1 free".
+- Focus promotions on high-volume products (*Sugar*, *Toothpaste*, *Cooking oil*) to increase basket size.  
+- Protect margins on high-revenue items (*Maize Meal*, *Rice*) by monitoring discounts closely.
+- Revitalize Soap Bar demand with promotional bundles (e.g., Buy‑1‑Get‑1).
 
 ### Customer & Payment Insights  
 - Encourage card payments with loyalty rewards to strengthen the dominant channel.  
