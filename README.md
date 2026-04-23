@@ -33,33 +33,19 @@ The ultimate goal is to deliver **data-driven recommendations** that improve pro
 ### Product Risks  
 - **Least attractive product**: Toothpaste and Soap Bar are lowest in Revenue and in Quantity bought. 
 
-### Customer Behavior (via Payment Method)  
-- **Card users**: Smaller but frequent baskets,   
-- **Cash users**: Highest revenue, showing preference for convenience.
-- **EFT users**: Often bulk buyers (e.g., Rice, Maize Meal), representing high-value customers.  
-
 ---
 
 ##  Recommendations  
 
-### Pricing & Revenue Strategies  
-- Investigate Cooking Oil pricing inconsistencies and enforce supplier contract controls.  
-- Focus promotions on high-volume products (*Sugar*, *Toothpaste*) to drive basket size.  
-- Protect margins on high-revenue items (*Maize Meal*, *Rice*) by monitoring discount application closely.  
+### Pricing & Revenue Strategies   
+- Focus promotions on high-volume products (*Sugar*, *Toothpaste*, *Cooking oil*) to drive basket size.  
+- Protect margins on high-revenue items (*Maize Meal*, *Rice*) by monitoring discount application closely.
+- Look into Soap bars with low Revenue, put a promotion on it and bundle it with a "Buy 1 and get 1 free".
 
 ### Customer & Payment Insights  
 - Encourage card payments with loyalty rewards to strengthen the dominant channel.  
 - Monitor cash-heavy stores for potential fraud or operational leakage.  
-- Target bulk-buying EFT customers with tailored offers and discounts.  
-
----
-
-##  Dashboard Design  
-
-- **Top row**: KPI cards (Total Revenue, Total Transactions, Total Quantity Sold, Average Discount, Top Product, Payment Split).  
-- **Middle row**: Sales Analysis (Region, Store, Category, Trend Over Time).  
-- **Second middle row**: Product Insights (Top 5 Products, Unit Price vs Quantity, Discount Impact).  
-- **Bottom row**: Customer Behavior (Payment Method Distribution, Basket Size by Payment Method).  
+- Target bulk-buying EFT customers with tailored offers and discounts.   
 
 ---
 
